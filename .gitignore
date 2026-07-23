@@ -141,3 +141,18 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 .vite/
+# Dataset
+dataset/
+
+# Virtual Environment
+venv/
+
+# YOLO outputs
+runs/
+
+# Model weights
+*.pt
+
+# Python cache
+__pycache__/
+*.pyc
